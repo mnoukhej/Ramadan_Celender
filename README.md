@@ -6,7 +6,21 @@
 ## Folder Structure
 
 <!-- TREE_START -->
-
+```
+├── README.md
+├── devices.txt
+├── install_and_run.bat
+├── install_and_run_enhanced.bat
+├── lib
+│   ├── home_page.dart
+│   ├── main.dart
+│   └── services
+│       ├── notification_service.dart
+│       └── prayer_times_service.dart
+├── pubspec.yaml
+├── setup.bat
+└── update_tree.py
+```
 <!-- TREE_END -->
 
 
